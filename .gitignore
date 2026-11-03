@@ -79,3 +79,4 @@ releases
 dist
 .spago
 test.js
+/spago.lock
